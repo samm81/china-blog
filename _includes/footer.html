@@ -1,15 +1,18 @@
 <footer>
-    <div class="about-wrap">
-        <section class="about">
-            <img class="about-avatar" src="{{ "/img/avatar.jpg" | prepend: site.baseurl }}" border="0" alt="[name]" />
-            <div class="about-body">
-                <p class="about-body-title">About</p>
-                <p class="about-body-description">{{ site.description }}</p>
-                <ul>
-                    <li><a href="https://twitter.com/{{ site.twitter_username }}" target="_blank" class="about-body-link about-body-link--bird">@{{ site.twitter_username }}</a></li>
-                    <li><a href="https://instagram.com/{{ site.instagram_username }}" target="_blank" class="about-body-link about-body-link--gram">{{ site.instagram_username }}</a></li>
-                </ul>
-            </div>
-        </section>
-    </div>
+  <div class="about-wrap">
+    <section class="about">
+      <img class="about-avatar" src="{{ "/img/avatar.jpg" | prepend: site.baseurl }}" border="0" alt="[name]" />
+      <div class="about-body">
+        <p class="about-body-title">About</p>
+        <p class="about-body-description">{{ site.description }}</p>
+        <ul class="about-body-links">
+          {% if site.footer-links.email %}<li><a href="mailto: {{ site.footer-links.email }}" target="_blank"><i class="fas fa-envelope"></i>{{ site.footer-links.email }}</a></li>{% endif %}
+          {% if site.footer-links.twitter %}<li><a href="https://twitter.com/{{ site.footer-links.twitter }}" target="_blank"><i class="fab fa-twitter"></i>@{{ site.footer-links.twitter }}</a></li>{% endif %}
+          {% if site.footer-links.instagram %}<li><a href="https://instagram.com/{{ site.footer-links.instagram }}" target="_blank"><i class="fab fa-instagram"></i>{{ site.footer-links.instagram }}</a></li>{% endif %}
+          {% if site.footer-links.github %}<li><a href="https://github.com/{{ site.footer-links.github }}" target="_blank"><i class="fab fa-github"></i>{{ site.footer-links.github }}</a></li>{% endif %}
+          {% if site.footer-links.rss %}<li><a href="{{ site.baseurl }}/feed.xml" target="_blank"><i class="fas fa-rss-square"></i>RSS</a></li>{% endif %}
+        </ul>
+      </div>
+    </section>
+  </div>
 </footer>

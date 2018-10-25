@@ -1,13 +1,19 @@
 # Site settings
-title: Travelog
-subtitle: "Journal of [name]"
-email: your-email@domain.com
-description: "Make the footer happy by entering a short description about yourself here"
-baseurl: ""
-url: "http://yourdomain.com"
-twitter_username: "rowanoulton"
-github_username:  "rowanoulton"
-instagram_username: "rowanoulton"
+title: Sam's Trip to China
+subtitle: Two years of college Chinese is enough, right?
+description: >- # this means to ignore newlines until next item
+  UT Austin Graduate.
+  Out and about!
+  This is just my travel blog; also see samm81.github.io
+baseurl:
+url: http://yourdomain.com
+
+footer-links:
+  email: samwmaynard@gmail.com
+  twitter: samwmaynard
+  github: samm81
+  instagram:
+  rss: hjkl # just type anything here for a working RSS icon
 
 # Build settings
 markdown: kramdown
@@ -18,4 +24,17 @@ paginate: 5
 
 # Sass
 sass:
-    style: :compressed
+  style: :compressed
+
+# Exclude these files from your production _site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - LICENSE
+  - README.md
+  - CNAME
