@@ -55,6 +55,16 @@ header {
     }
 }
 
+.mailinglist {
+    margin-top: 10px;
+    padding-top: 10px;
+    border-top: 1px solid $border-colour;
+
+    a {
+        color: $link-colour;
+    }
+}
+
 @media only screen and (max-width : 480px) {
     header {
         padding-top: 30px;
