@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Great 福 Hunt
-location: Seoul, Korea
+location: Biejing, PRC
 ---
 
 This past week has been 春节 (chunjie "Spring Festival"), also known as the Lunar New Year (although it's technically a [lunisolar calendar][1]) or the Chinese New Year (although it's celebrated [in several other Asian countries as well][2]). But this post is not about 春节. This post is about the largest mobile game in the world.
