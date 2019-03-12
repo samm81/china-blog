@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 客随主便 (kesuizhubian) "A guest should suite the convenience of the host"
+title: 客随主便 (kesuizhubian) "A guest should suit the convenience of the host"
 location: Beijing, PRC
 ---
 
