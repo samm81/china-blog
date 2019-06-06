@@ -8,5 +8,5 @@ layout: default
     {{post.excerpt}}
     <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">READ MORE</a>
   {% endcapture %}
-  {% include post.html post=post content=content %}
+  {% include post.html post=post content=content comments=false %}
 {% endfor %}
