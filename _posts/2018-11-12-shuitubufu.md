@@ -4,7 +4,7 @@ title: 水土不服 (shuitubufu)
 location: Beijing, PRC
 ---
 
-Chinese people have a vast array of four character expressions that are very similar to our idioms in English. The literal translation of 水土不服 (shuitubufu) is "the earth and water are not familiar", and the the the meaning of this idiom (they are called 成语, chengyu) is "being unaccustomed to one's environment". It is also an officially diagnosable cause of illness in traditional Chinese medicine.
+Chinese people have a vast array of four character expressions that are very similar to our idioms in English. The literal translation of 水土不服 (shuitubufu) is "the earth and water are not familiar", and the meaning of this idiom (they are called 成语, chengyu) is "being unaccustomed to one's environment". It is also an officially diagnosable cause of illness in traditional Chinese medicine.
 
 Seemingly every person that had ever been to China that I spoke to about my upcoming trip _needed_ to warn me about the water. "Oh don't ever drink the tap water." "You know about the water right?" "Only use bottled water - even for brushing your teeth." "The tap water isn't like in American - you can't drink it." "Make sure to boil water before you use it for anything."
 
