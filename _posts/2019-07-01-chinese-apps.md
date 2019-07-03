@@ -152,3 +152,17 @@ We in the United States have been growing wary of our technological overlords (p
 
 Instead of "discounts" or "sales" apps have 红包 (hongbao "red packet"). A red packet is traditionally given out at Chinese New Year from the elder generation to the younger, and will always have some amount of money inside. Apps have co-opted 红包 for a variety of purposes, like discounts, coupons, referral bonuses, but they're usually just worth the equivalent of c50. They would be fine if I could just ignore them, but frequently I am offered some new set of red packets every time I open the app. Even one of my maps apps has red packets! Annoying.
 -->
+
+<hr />
+
+_Shawn Li comments:_
+
+> Haha, "notification" in chinese is "通知". Android apps in China is annoying so a management app, which can put some apps to "sleep", is essential. Like Ice Box (冰箱). This app can prevent apps from auto restart and no notifications.
+
+_Tariq Tune comments:_
+
+> Funny coincidence reading this right after reading an article that discussed the Chinese government downloading secret surveillance apps on tourists phones (only for Android, since there’s no way Apple would run with that). Also related: Apple, for the first time, just published info on governments requesting apps to be taken off the apple App Store. But, I agree w/ you — more freedom also comes with less regulations... there is no end-all solution here until we can have a perfect mediator/regulator for apps. And I don’t even think that’s ever even going to be possible. Feels like it will just be a matter of time before China twists Apple’s arm until it submits more power to China on the App Store 🤷‍♂️
+
+> <https://www.theguardian.com/world/2019/jul/02/chinese-border-guards-surveillance-app-tourists-phones>
+
+> <https://techcrunch.com/2019/07/02/apple-app-government-takedowns/>
