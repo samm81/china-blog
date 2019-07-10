@@ -162,7 +162,17 @@ _Shawn Li comments:_
 _Tariq Tune comments:_
 
 > Funny coincidence reading this right after reading an article that discussed the Chinese government downloading secret surveillance apps on tourists phones (only for Android, since there’s no way Apple would run with that). Also related: Apple, for the first time, just published info on governments requesting apps to be taken off the apple App Store. But, I agree w/ you — more freedom also comes with less regulations... there is no end-all solution here until we can have a perfect mediator/regulator for apps. And I don’t even think that’s ever even going to be possible. Feels like it will just be a matter of time before China twists Apple’s arm until it submits more power to China on the App Store 🤷‍♂️
-
+>
 > <https://www.theguardian.com/world/2019/jul/02/chinese-border-guards-surveillance-app-tourists-phones>
-
+>
 > <https://techcrunch.com/2019/07/02/apple-app-government-takedowns/>
+
+_Eric Poon comments:_
+
+> Chinese UX is different from the western one. We westerners are trained to like spaces over the content, but is it really better? 
+>
+> <https://uxdesign.cc/content-or-white-space-chinese-vs-western-design-aesthetics-2eef79e12844>
+>
+> Love,
+>
+> Eric
