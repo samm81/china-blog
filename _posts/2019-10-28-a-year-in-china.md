@@ -243,3 +243,13 @@ Inevitably the question comes: which was your favorite? Beijing really feels lik
 成都 (Chengdu), 南京 (Nanjing), 武汉 (Wuhan), 大同 (Datong) and 青岛 (Qingdao) are all runner ups, but it can be difficult to pull apart how much you enjoyed a city from the conditions you visited it under - I visited most of these cities _outside_ of peak tourist season which makes a big difference.
 
 Outside of China, I was also a huge fan of Seoul both time I went - the city is so dense it feels like no matter where you go or what corner you turn there's always something new to see/do/eat/drink. My four day hike up Poon Hill in Pokhara, Nepal was also pretty incredible, but you'll see more about that in a future post!
+
+<hr />
+
+_Eric Poon_:
+
+> Poon hill looks great!
+>
+> Love,
+>
+> Eric POON
