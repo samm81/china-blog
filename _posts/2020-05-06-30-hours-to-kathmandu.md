@@ -144,3 +144,9 @@ After pulling into the parking lot and gathering our belongings we hooked up wit
 ---
 
 "So are you looking forward to your meditation retreat?" my girlfriend asked over our video call. "Jeez" I said, rubbing my eyes, still tired even after a four hour nap, "after what I just went through I feel like I'm ready for anything!" Little did I know how wrong I would turn out to be...
+
+<hr style="margin-top: 4rem; border: 2px dashed;">
+
+_Dad says:_
+
+> This was well written and entertaining, but I don't think I want to visit India now.
