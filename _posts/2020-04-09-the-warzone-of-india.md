@@ -114,6 +114,18 @@ I think India probably *can* be an awesome travel experience, just Max and I did
   <p class="post-image-caption">Despite it all, there were still some amazing moments!</p>
 </div>
 
+---
+
+_Dad says:_
+
+> You better get back, honky cat
+
+> Living in the city ain't where it's at
+
+> It's like trying to find gold in a silver mine
+
+> It's like trying to drink whiskey from a bottle of wine
+
 <!--
 scam list:
 
