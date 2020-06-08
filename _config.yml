@@ -1,5 +1,6 @@
 # Site settings
 title: Sam's Trip to China
+author: Samuel Maynard
 subtitle: Two years of college Chinese was not enough 😅
 description: >- # this means to ignore newlines until next item
   UT Austin Graduate.
@@ -22,6 +23,9 @@ footer-links:
   github: samm81
   instagram:
   rss: hjkl # just type anything here for a working RSS icon
+
+plugins:
+  - jekyll-feed
 
 # Build settings
 markdown: kramdown
