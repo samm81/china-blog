@@ -68,3 +68,10 @@ A week later his girlfriend started asking him questions about it. She had notic
 | 9:00 - 9:30 pm     | Q&A                  |
 | 9:30 pm            | Lights out           |
 -->
+
+---
+
+_Mike says:_
+
+> excellent writing and expression of your experience...I almost felt your pain. Second time around will be a breeze.
+> especially since you will have a good partner 😊
