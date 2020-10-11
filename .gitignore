@@ -7,3 +7,5 @@ _site
 # ruby stuff
 vendor
 .bundle
+
+Session.vim
