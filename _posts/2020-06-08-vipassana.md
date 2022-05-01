@@ -75,3 +75,7 @@ _Mike says:_
 
 > excellent writing and expression of your experience...I almost felt your pain. Second time around will be a breeze.
 > especially since you will have a good partner 😊
+
+_Nathan says:_
+
+>  Loved this - thanks for sharing sam 
