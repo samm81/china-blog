@@ -39,7 +39,9 @@ sass:
   style: :compressed
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-104896580-2
+google_analytics:
+
+plausible_domain: samstriptochina.com
 
 # Exclude these files from your production _site
 exclude:
